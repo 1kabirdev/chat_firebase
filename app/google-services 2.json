@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263180577823",
+    "project_id": "interaction-a3d44",
+    "storage_bucket": "interaction-a3d44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263180577823:android:81d6875668f29a1680792a",
+        "android_client_info": {
+          "package_name": "com.interaction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263180577823-oijd40i9ui72m0136kjopivv0vh3ohnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzIFHT0SgpsAqiAUJU4itBUyoky41LM-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263180577823-oijd40i9ui72m0136kjopivv0vh3ohnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

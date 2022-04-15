@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004290214783",
+    "project_id": "interaction-fed3b",
+    "storage_bucket": "interaction-fed3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004290214783:android:b188cde6ac391c0e09e84a",
+        "android_client_info": {
+          "package_name": "com.interaction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004290214783-j9jpjehurq6onr8vjb9b8uqm6ue8kvgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8qioIJ8FJuP_zog6AKQRAsJUs_LR-SJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004290214783-j9jpjehurq6onr8vjb9b8uqm6ue8kvgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
